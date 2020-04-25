@@ -2,11 +2,11 @@
  * @Author: Bryan 
  * @Date: 2020-04-25 19:28:31 
  * @Last Modified by: Bryan
- * @Last Modified time: 2020-04-25 19:58:46
+ * @Last Modified time: 2020-04-25 20:07:00
  */
 
 module.exports = {
-  title: 'Landz-sensors',
+  title: 'LandzSensors',
   description: '神策标准文档及组件使用',
   themeConfig: {
     sidebar: 'auto',
