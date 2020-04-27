@@ -2,11 +2,12 @@
  * @Author: Bryan 
  * @Date: 2020-04-25 19:28:31 
  * @Last Modified by: Bryan
- * @Last Modified time: 2020-04-27 14:29:56
+ * @Last Modified time: 2020-04-27 16:03:57
  */
 
 module.exports = {
-  title: 'Landz-Sensors',
+  port: '7878',
+  title: '神策组件',
   description: '神策属性标准及组件使用文档',
   head: [
     ['link', 

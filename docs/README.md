@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /sensors.png
-actionText: 快速上手 →
-actionLink: /
+actionText: 快速开始 →
+actionLink: '/pages/documention.html'
 features:
 - title: 统一封装
   details: 小程序、H5及官网相关已统一封装，如何使用详见使用文档。
